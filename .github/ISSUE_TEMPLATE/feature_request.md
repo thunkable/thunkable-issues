@@ -13,7 +13,7 @@ A clear and concise description of what you want to happen.
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
 
-**What platform are you asking for?**
+**Which platform are you asking for?**
 Thunkable Classic (app.thunkable.com) or Thunkable ✕ (x.thunkable.com)
 
 **Additional context**
