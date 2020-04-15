@@ -6,7 +6,7 @@ about: Create a report to help us improve
 
 Thanks so much for filing an issue or feature request! Please fill out the following (wherever relevant):
 
-The more info the faster we will be able to address it!
+The more info, the faster we will be able to address it!
 
 ### Platform
 Is this for Classic, Classic companion, ✕, ✕ Android companion, or ✕ iOS companion?
@@ -18,6 +18,9 @@ Where did you get this issue? Email, Intercom, or Community?
 1.
 2. 
 3.
+
+### Project Link
+Link to a project copy that shows this behaviour. This is important because most times we cannot reproduce the issues reported just with the list of steps, so please do provide this.
 
 ### Expected Behavior
 What did you expect to happen?
